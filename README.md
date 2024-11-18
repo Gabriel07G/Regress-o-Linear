@@ -19,7 +19,7 @@ Sobre os dados: Arquivo csv
   próxima etapa.
 
   * ### Etapa 02) Análise Exploratória:
-  Neta etapa iremos explorar mais a fundo os dados, identificando relações entre as
+  Nesta etapa iremos explorar mais a fundo os dados, identificando relações entre as
   variáveis e descobrindo padrões relevantes. Para isso, utilize técnicas de
   visualização de dados e análises estatísticas, buscando possíveis correlações e
   identificando possíveis outliers ou desvios da normalidade.
